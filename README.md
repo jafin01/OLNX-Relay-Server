@@ -4,7 +4,7 @@
 
 To run this application, you have to set your own environmental variables. For security reasons, some variables have been hidden from view and used as environmental variables with the help of dotenv package. Below are the variables that you need to set in order to run the application:
 
-- PORT: Specify the port Number
+- PORT = Specify the port Number
 
 - ELEVENLABS_API_KEY = ElevenLabs Api key
 
