@@ -8,8 +8,6 @@ To run this application, you have to set your own environmental variables. For s
 
 - ELEVENLABS_API_KEY = ElevenLabs Api key
 
-- ELEVENLABS_VOICE_ID = Specify the voice for the assistant (Id)
-
 After you've set these environmental variables in the .env file at the root of the project, and intsall node modules using  `yarn` command.
 
 Now you can run `yarn start` and the application should work.
